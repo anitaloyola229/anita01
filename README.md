@@ -13,6 +13,6 @@ Assignment 7 - Arrays - link
 Assignment 8 - Final project - link
 
 
-https://github.com/adam-p/markdown-here
+[Markdown Cheatsheet by Adam P](https://github.com/adam-p/markdown-here)
 
-https://github.com/tchapi/markdown-cheatsheet
+[Markdown Cheatsheet by Tchapi](https://github.com/tchapi/markdown-cheatsheet)
